@@ -30,7 +30,7 @@ If found, you get the number of times your password was leaked.
 
 🚀 Installation & Usage
 1. Clone this repository
-git clone https://github.com/yourusername/password-breach-checker.git
+git clone https://github.com/YashKumarSharma646/password-breach-checker.git
 cd password-breach-checker
 
 2. Install requirements
